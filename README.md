@@ -8,4 +8,4 @@
 
 ##Blog Post
 
-First sentance of blog post goes here...()[]
+first sentance of blog goes here 
