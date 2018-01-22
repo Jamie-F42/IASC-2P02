@@ -4,4 +4,8 @@
 
 "about me"
 
-![chinese-lantern-455760_1920]
+![chinese-lantern-455760_1920.jpg]
+
+##Blog Post
+
+First sentance of blog post goes here...()[]
