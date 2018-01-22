@@ -1,2 +1,7 @@
-# IASC-2P02
-sup m'dudes
+# IASC-2P02| Jamie Foster
+
+## Bio
+
+"about me"
+
+![chinese-lantern-455760_1920]
