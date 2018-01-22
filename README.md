@@ -4,7 +4,7 @@
 
 "about me"
 
-![chinese-lantern-455760_1920.jpg]
+![writing.jpg](writing.jpg)
 
 ##Blog Post
 
