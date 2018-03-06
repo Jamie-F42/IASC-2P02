@@ -10,13 +10,19 @@ This scenario, although seemingly a unique problem, realistically arose dozens o
   a) put it under male purchaser since Dan was listed on the account first 
   b) count this purchase twice and put it under both categories 
   c) exclude this occurrence since there is no way for them to know exactly who did the buying or 
-  d) make a judgment that depends on the individual researcher’s own bias and experience to pick a category for this purchase, thus resulting in the facts relying on if the researcher thinks that Erin bought it because the mother does the shopping, or Dan bought it because he would know what to get. 
+  d) make a judgment that depends on the individual researcher’s own bias and experience to pick a category for this purchase, thus     resulting in the facts relying on if the researcher thinks that Erin bought it because the mother does the shopping, or Dan bought it because he would know what to get. 
 
 Decisions like this would have been personally made by someone at some point, the danger being they are not easily evident. Only when under critical examination does it change how the reader would understand the information. Moretti states in “Graphs, Maps, Trees” that “quantitative data are useful because they are independent of interpretation; [but] they are interesting because they demand an interpretation” (91). In the specific Destiny case presented above, that interpretation was made by some researcher who is overworked and underpaid at the ESA who had these numbers dumped in a pile on his desk hours ago with very little instruction and he’s too tired to care if there is a 2% misinformation in this 2015 yearly report of purchases based on gender. 
 
 This problem is an extension of what Drucker is arguing; that traditional graphical displays that are so common in humanities does not have the capability to show these variables and conditions for information like this, which would eradicate the threat of invisible bias. In “Beyond Gutenberg: Transcending the Document Paradigm in Digital Humanities” Schloen confronts this very issue: “By organizing information within position-dependent data structures limited to one or two dimensions, such as strings and tables, we fail to represent the full range of scholarly observations and interpretations in a predictable and semantically rich digital form that permits powerful automated comparisons and analyses”. This article highlights the same issue that Digital Humanities now faces, as well as presents methods for rectifying it.  As Digital Humanities is evolving to be its own discipline, there needs to be an advancement in this area as we now have the capability, technology, and platforms to produce a modern graphical system that rights this issue. 
 
-![IASC2P02Bloggraph2.jpg](IASC2P02Bloggraph2.jpg)
+It is clear in the visualization below that this issue of graphical representation is not a small one, nor should it be ignored. Other articles on this topic are not hard to find at all, and in the three that I touch on here, you can see that through the extensive use of the word "data", the concern is prevelant.
+
+![IASC2P02Bloggraph2.jpg](https://github.com/Jamie-F42/IASC-2P02/blob/master/IASC2P02Bloggraph2.png)
+
+If Digital Humanities is to carve itself a useful place in academia, I believe coming up with a solution to this problem os graphiical display is the best way to do that. 
+
+## Works Cited
 
 Drucker, Johanna. “Humanities Approaches to Graphical Display”. Digital Humanities Quarterly, 2011. Volume 5 Number 1. Mar. 2018. http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html 
 
