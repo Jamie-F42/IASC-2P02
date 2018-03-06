@@ -8,4 +8,4 @@ I am a University student studying English Language and Literature and Interacti
 
 ## Blog Post
 
-first sentance of blog goes here 
+Data Visualization and Why Everyone is Screaming About It... (https://github.com/Jamie-F42/IASC-2P02/blob/master/Blog.md)
