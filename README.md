@@ -12,4 +12,4 @@ Data Visualization and Why Everyone is Screaming About It... (https://github.com
 
 ## Solo Presentation
 
-[Click Here] (url)
+[Click Here](https://jamie-f42.github.io/IASC-2P02/reveal/)
