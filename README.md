@@ -6,11 +6,11 @@ I am a University student studying English Language and Literature and Interacti
 
 ![writing.jpg](writing.jpg)
 
-## Featured Project: [Title of project here]
+## Featured Project: [Vine: The 3 Years that Changed Everything]
 
 ![](images/featured.jpg)
 
-Here are 250 words introducing this work.
+This presentation is a look at the social media app Vine through the lense of media archeology. The Vine launched and closed down within 3 years (2013-2016), but it took internet culture to a new level with features that were at the time new to mobile apps. This presentation focuses on the cultural effect this media had, which completely changed the format and humour of memes, which has been the maid way young adults tell, share and relate to regular human experiences and can express it in a way that is easily conumable, creative and entertaining. 
 
 Here is my 250 word statement describing how this researched evolved over time. I made these changes, which you can see [here](commit link). I also made these changes, which you can see [here](commit link).
 
