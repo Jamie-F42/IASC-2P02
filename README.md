@@ -1,5 +1,7 @@
 # IASC-2P02| Jamie Foster
 
+![internet.jpg](internet.jpg)
+
 ## Bio
 
 I am a fifth-year University student studying English Language and Literature and Interactive Arts and Science. I have a deep interest in video games and the gaming industry as well as the ESports community. I am most interested in cultural studies, specifically how small blips in pop-culture and seemingly small media effects our culture in broad hindsight. My work represents my interest in this field by examining these media innovations and how they resonate througout our modern culture. My research on the social-media app Vine, for example, explores exactly how this small piece of technology changed the broad internet culture that our world is slipping more and more into. 
