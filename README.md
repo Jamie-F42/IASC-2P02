@@ -9,7 +9,7 @@ From here, I would like to conduct more extensive research on internet culture a
 
 ![metameme.png](metameme.png)
 
-## Featured Project: [Vine: The 3 Years that Changed Everything]
+## Featured Project: Vine: The 3 Years that Changed Everything
 
 ![vine3.gif](vine3.gif)
 
