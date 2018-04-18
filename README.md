@@ -30,7 +30,7 @@ I chose to do the Theoretical Analysis section of our collaborative project, as 
 
 ![td1.PNG](td1.PNG)
 
-![td2.PNG](td2.PNG
+![td2.PNG](td2.PNG)
 
 ## Academic Blog
 
